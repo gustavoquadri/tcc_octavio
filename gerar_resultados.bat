@@ -20,5 +20,4 @@ if errorlevel 1 (
 
 echo.
 echo Pronto. Saidas em: saidas\5_1_referencia ... saidas\5_6_indicadores
-echo Guia de colagem: ENTREGA_PARA_OCTAVIO.md
 pause

@@ -1,0 +1,8 @@
+﻿cenario;modelo;solver_sucesso;mensagem_solver;nfev;metodo;rtol;atol;X_min;S_min;P_min;houve_valor_negativo
+referencia;monod;True;The solver successfully reached the end of the integration interval.;692;RK45;1,000000e-06;1,000000e-09;1,000000e+00;-1,141072e-09;0,000000e+00;True
+S1;monod;True;The solver successfully reached the end of the integration interval.;554;RK45;1,000000e-06;1,000000e-09;1,000000e+00;-1,039140e-09;0,000000e+00;True
+S2;monod;True;The solver successfully reached the end of the integration interval.;800;RK45;1,000000e-06;1,000000e-09;1,000000e+00;-1,254696e-09;0,000000e+00;True
+X1;monod;True;The solver successfully reached the end of the integration interval.;710;RK45;1,000000e-06;1,000000e-09;5,000000e-01;-1,485796e-09;0,000000e+00;True
+X2;monod;True;The solver successfully reached the end of the integration interval.;704;RK45;1,000000e-06;1,000000e-09;2,000000e+00;-9,972955e-10;0,000000e+00;True
+M1;monod;True;The solver successfully reached the end of the integration interval.;692;RK45;1,000000e-06;1,000000e-09;1,000000e+00;-1,141072e-09;0,000000e+00;True
+M2;andrews;True;The solver successfully reached the end of the integration interval.;632;RK45;1,000000e-06;1,000000e-09;1,000000e+00;-1,529428e-09;0,000000e+00;True
